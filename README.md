@@ -4,15 +4,13 @@
 ### Site com objetivo de reduzir o absenteísmo de 20% para 10% 
 
 
-<!DOCTYPE html>
-<html lang="pt-br" data-theme="dark">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>InovaHC - Redução de Absenteísmo</title>
     <meta name="description" content="Soluções inteligentes para reduzir o absenteísmo e melhorar a produtividade">
     <meta name="keywords" content="absenteísmo, RH, gestão de pessoas, produtividade, bem-estar corporativo">
-
+    <link rel="shortcut icon" href="https://img.ge/i/kRUvV92.png" type="image/x-icon">
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="script.js">
 </head>
@@ -43,6 +41,3 @@
             </nav>
         </div>
     </header>
-
-</body>
-</html>
