@@ -12,7 +12,7 @@
     <title>InovaHC - Redução de Absenteísmo</title>
     <meta name="description" content="Soluções inteligentes para reduzir o absenteísmo e melhorar a produtividade">
     <meta name="keywords" content="absenteísmo, RH, gestão de pessoas, produtividade, bem-estar corporativo">
-    <link rel="shortcut icon" href="https://img.ge/i/kRUvV92.png" type="image/x-icon">
+
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="script.js">
 </head>
