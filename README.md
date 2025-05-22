@@ -4,10 +4,21 @@
 ### Site com objetivo de reduzir o absenteísmo de 20% para 10% 
 
 
+
+#  InovaHC - Redução de Absenteísmo  
+
+
+**Solução tecnológica para gestão de saúde corporativa e redução de faltas não planejadas.** 
+
+
+## 🚀 Tecnologias  
+- **HTML5** (semântico)  
+- **CSS3** (puro, com responsividade)  
+- **JavaScript Vanilla** (validações e interações)
+
+ 
 ## 🗂️ Estrutura do Projeto
 
-
- InovaHC
 
  
 ├── 📂 html → Contém os arquivos HTML (páginas, integrantes e imagens do site).
@@ -17,6 +28,9 @@
 
 
 └── 📂 script → Códigos JavaScript (arquivos .js).
+
+
+
 
 
 
@@ -91,10 +105,10 @@
 
 # Integrantes
 
-Nickolas Davi     RM: 564105
+Nickolas Davi      RM: 564105  
 
 
-Rafael Carvalho   Rm: 563413
+Rafael Carvalho    RM: 563413  
 
 
-Ruan Luca         Rm: 562218
+Ruan Luca           RM: 562218 
