@@ -11,13 +11,14 @@
 **Solução tecnológica para gestão de saúde corporativa e redução de faltas não planejadas.** 
 
 
-## 🚀 Tecnologias  
+# 🚀 Tecnologias  
 - **HTML5** (semântico)  
 - **CSS3** (puro, com responsividade)  
 - **JavaScript Vanilla** (validações e interações)
+  
 
  
-## 🗂️ Estrutura do Projeto
+# 🗂️ Estrutura do Projeto
 
 
  
@@ -32,8 +33,15 @@
 
 
 
+# Integrantes
+
+Nickolas Davi      RM: 564105  
 
 
+Rafael Carvalho    RM: 563413  
+
+
+Ruan Luca           RM: 562218 
 
 
 
@@ -56,59 +64,5 @@
             <nav>
                 <a href="#" class="logo">
                     <img src="https://img.ge/i/nZuz460.png" alt="InovaHC Logo">
-                    InovaHC
-                </a>
-                <ul class="nav-links">
-                    <li><a href="#home">Home</a></li>
-                    <li><a href="#solutions">Solução</a></li>
-                    <li><a href="#how-it-works">Como Funciona</a></li>
-                    <li><a href="#strategies">Estratégias</a></li>
-                    <li><a href="#phases">Fases</a></li>
-                    <li><a href="#team">Integrantes</a></li>
-                    <li><a href="#faq">FAQ</a></li>
-                    <li class="auth-buttons">
-                        <a href="#" class="auth-btn login-btn" id="loginBtn">Login</a>
-                        <a href="#" class="auth-btn register-btn" id="registerBtn">Cadastre-se</a>
-                    </li>
-                </ul>
-                <div>
-                    <button class="mobile-menu-btn" id="mobileMenuBtn">☰</button>
-                </div>
-            </nav>
-        </div>
-    </header>
-
-
-
- <div class="modal" id="loginModal">
-        <div class="modal-content">
-            <span class="close-btn" id="closeLogin">&times;</span>
-            <h2>Login</h2>
-            <form id="loginForm">
-                <div class="form-group">
-                    <label for="loginEmail">Email</label>
-                    <input type="email" id="loginEmail" required>
-                    <div class="error-message" id="loginEmailError">Por favor, insira um email válido</div>
-                </div>
-                <div class="form-group">
-                    <label for="loginPassword">Senha</label>
-                    <input type="password" id="loginPassword" required>
-                    <div class="error-message" id="loginPasswordError">Por favor, insira sua senha</div>
-                </div>
-                <button type="submit" class="submit-btn">Entrar</button>
-                <div class="switch-form">Não tem uma conta? <a id="switchToRegister">Cadastre-se</a></div>
-            </form>
-        </div>
-    </div>
-
-
-
-# Integrantes
-
-Nickolas Davi      RM: 564105  
-
-
-Rafael Carvalho    RM: 563413  
-
-
-Ruan Luca           RM: 562218 
+                
+                
