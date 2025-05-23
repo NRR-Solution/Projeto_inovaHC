@@ -58,7 +58,7 @@
 ---
 
 ## 🔗 Links Importantes  
-- **Repositório**: [github.com/InovaHC-FIAP/reducao-absenteismo](https://github.com/InovaHC-FIAP/reducao-absenteismo) *(substitua pelo link real)*  
+- **Repositório**: https://github.com/NRR-Solution/Projeto_inovaHC.git
 
 
 ---
