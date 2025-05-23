@@ -8,7 +8,11 @@
 #  InovaHC - Redução de Absenteísmo  
 
 
-**Solução tecnológica para gestão de saúde corporativa e redução de faltas não planejadas.** 
+## 🎯 Solução  
+A **InovaHC** oferece um sistema completo para reduzir absenteísmo em empresas através de:  
+- Diagnóstico automatizado das causas raiz.  
+- Planos de ação personalizados (saúde, engajamento, flexibilidade).  
+- Plataforma intuitiva com relatórios em tempo real.
 
 
 # 🚀 Tecnologias  
