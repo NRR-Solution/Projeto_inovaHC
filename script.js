@@ -1,4 +1,5 @@
-// Mobile Menu Toggle
+
+
 const mobileMenuBtn = document.getElementById('mobileMenuBtn');
 const navLinks = document.querySelector('.nav-links');
 
@@ -6,7 +7,7 @@ mobileMenuBtn.addEventListener('click', () => {
     navLinks.classList.toggle('active');
 });
 
-// FAQ Accordion
+
 const faqQuestions = document.querySelectorAll('.faq-question');
 
 faqQuestions.forEach(question => {
@@ -22,7 +23,7 @@ faqQuestions.forEach(question => {
     });
 });
 
-// Smooth scrolling for anchor links
+
 document.querySelectorAll('a[href^="#"]').forEach(anchor => {
     anchor.addEventListener('click', function (e) {
         e.preventDefault();
@@ -42,7 +43,7 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
     });
 });
 
-// Animation on scroll
+
 const fadeElements = document.querySelectorAll('.fade-in');
 
 const fadeObserver = new IntersectionObserver((entries) => {
@@ -61,7 +62,7 @@ fadeElements.forEach(el => {
     fadeObserver.observe(el);
 });
 
-// Form validation and submission
+
 const contactForm = document.getElementById('contactForm');
 const formFeedback = document.getElementById('formFeedback');
 
@@ -107,7 +108,7 @@ contactForm.addEventListener('submit', function (e) {
     }
 });
 
-// Login/Register Modal Functionality
+
 const loginBtn = document.getElementById('loginBtn');
 const registerBtn = document.getElementById('registerBtn');
 const loginModal = document.getElementById('loginModal');
@@ -156,7 +157,7 @@ window.addEventListener('click', (e) => {
     }
 });
 
-// Form validation for login
+
 const loginForm = document.getElementById('loginForm');
 loginForm.addEventListener('submit', (e) => {
     e.preventDefault();
@@ -185,7 +186,7 @@ loginForm.addEventListener('submit', (e) => {
     }
 });
 
-// Form validation for register
+
 const registerForm = document.getElementById('registerForm');
 registerForm.addEventListener('submit', (e) => {
     e.preventDefault();
